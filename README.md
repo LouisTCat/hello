@@ -7,6 +7,8 @@ See the [Emoji Cheat Sheet](http:http://emoji-cheat-sheet.com) for the complete 
 
 You can learn more about Markdown here - and you can also create a link automatically like this - https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf 
 
+SAMPLE TEXT
+
 ## More about Markdown
 
 First, the simple stuff: *This is Italic* **This is Bold**
