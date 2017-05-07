@@ -22,6 +22,7 @@ And also ordered lists (of course):
 1. Item 1
 2. Item 2
 3. Item 3
+1. testing if I can really put any number in the markdown. I typed a "1", but a "4" should show up.
    * Item 3a
    * Item 3b
 
