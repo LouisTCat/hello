@@ -1,4 +1,4 @@
-#This is a sort of typical MarkDown file
+# This is a sort of typical MarkDown file
 
 This file contains some markdown that we will edit to show examples of modifying files then commiting them.
 
@@ -6,7 +6,7 @@ This file contains some markdown that we will edit to show examples of modifying
 
 **Important:** The above note is correct.
 
-##Another Title
+## Another Title
 
 Writing example content is hard, which is why I guess that so many people use the lorem ipsum text. However, I wanted something that could easily be edited and the resulting diff be viewed as we are going through the example.
 
